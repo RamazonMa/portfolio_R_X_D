@@ -1,9 +1,6 @@
 # Build A Portfolio with Django | Learn Django for Beginner
 
 
-- [Notes and Useful commands](Notes.md)
-- [Simple Deployment Notes](Deploy.md)
-
 # Set up
 Steps:
 -> These steps are explained
