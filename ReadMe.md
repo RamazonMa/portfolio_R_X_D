@@ -15,4 +15,4 @@ Steps:
 ### Finally runserver
 `python manage.py runserver`
 
-<img src="MVC.png" width="500px">
+<img src="My_image.png" width="500px">
