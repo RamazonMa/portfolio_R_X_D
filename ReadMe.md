@@ -15,4 +15,5 @@ Steps:
 ### Finally runserver
 `python manage.py runserver`
 
-<img src="My_image.png" width="500px">
+<!-- <img src="" width="500px"> -->
+<img src="assets/img/skill.jpg" alt="" width="500">
